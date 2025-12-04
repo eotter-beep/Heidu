@@ -1,7 +1,7 @@
 # Heidu
 
-Hei! A site du ye at: https://github.com/eotter-beep/.hd by creating an Issue.
+Get a site accepted at: https://github.com/eotter-beep/.hd by creating a Issue
 
-## Legul
+## Laws
 
-Voting du require Hei-du language. If you Nu understand it, read: https://github.com/eotter-beep/Heidu/wiki
+Voting requires the Heidu language, if you don't understand it, read: https://github.com/eotter-beep/Heidu/wiki
