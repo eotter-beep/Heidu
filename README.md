@@ -9,3 +9,5 @@ Company-making is free, no H$ needed, creating a company in Heidu requires creat
 You get H$ by if your idea is good (save in money.txt to not lose your H$!)
 
 Innapropriate content will be banned (unless it is T-rated maturity)
+
+Contents making ads paid will be banned
